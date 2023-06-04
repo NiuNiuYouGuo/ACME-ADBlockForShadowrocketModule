@@ -1,0 +1,4 @@
+#!name=reject_list
+#!desc=Rules:61379 Created:06-04 06:34 Publisher:GMOogway
+[Rule]
+DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com,REJECT
