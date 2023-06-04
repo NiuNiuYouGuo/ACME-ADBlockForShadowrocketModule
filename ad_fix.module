@@ -2,3 +2,4 @@
 #!desc=fix screen ad maybe
 [Rule]
 DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com,REJECT
+DOMAIN-SUFFIX,mobads.baidu.com,REJECT
