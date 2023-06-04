@@ -1,4 +1,4 @@
-#!name=reject_list
-#!desc=Rules:61379 Created:06-04 06:34 Publisher:GMOogway
+#!name=ad_fix
+#!desc=fix screen ad maybe
 [Rule]
 DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com,REJECT
